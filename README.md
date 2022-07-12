@@ -1,6 +1,8 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with the help of REACT-BOOTSTRAP [Create React App](https://github.com/facebook/create-react-app).
+
+ALL ASSETS ARE TAKEN FROM GOOGLE.
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
 
@@ -11,6 +13,10 @@ Built using:
 - CSS animations library: Animate.css
 
 In the /personal-portfolio, you can run:
+
+### `npm install`
+
+It will install all the necessary dependencies for your application.Node modules are needed for your application.
 
 ### `npm start`
 
@@ -26,6 +32,7 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+You can ofcourse deploy this project.
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -34,3 +41,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+Leave a ⭐ if you liked it.
+
+Made with ❤️ by Saunak Ghosh.
