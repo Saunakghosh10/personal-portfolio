@@ -4,8 +4,8 @@ This project was bootstrapped with the help of REACT-BOOTSTRAP [Create React App
 
 ALL ASSETS ARE TAKEN FROM GOOGLE.
 
-<!-- <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src=""> -->
-<a href='https://postimg.cc/LJPhFtX9' target='_blank'><img width="1266" src='https://i.postimg.cc/LJPhFtX9/Capture.png' border='0' alt='Capture'/></a>
+<img width="1266"
+ src='https://serving.photos.photobox.com/227606729875cf64070a06f37aa27ffbaed6edda40297023d84baf1cc905638e4a2b16f9.jpg' border='0' alt='Capture'/></a>
 Built using:
 
 - Front-end library: React
