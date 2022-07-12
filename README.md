@@ -4,7 +4,7 @@ This project was bootstrapped with the help of REACT-BOOTSTRAP [Create React App
 
 ALL ASSETS ARE TAKEN FROM GOOGLE.
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://lh3.googleusercontent.com/tTFOrH_kz_3ucT939q54flxv3j-NPe0S8-rILVK13FXM1zpE9E7EXZZwID82FJ-bbqR4=s170">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="![alt text](http://url/to/Capture.png)">
 
 Built using:
 
